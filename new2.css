@@ -1,0 +1,54 @@
+body{
+              
+    background:linear-gradient(pink,skyblue);
+  }
+  form{
+      box-sizing: border-box;
+      border: unset 10px blue;
+      
+  }
+
+  #c1{
+      padding-left: 450px;
+      font-size: 4em;
+      font-weight: bolder;
+      background:linear-gradient(orange 50%,white 20%,green 10%);
+      color:transparent;
+      background-clip: text;
+  }
+  #c2{
+      padding-left: 100px;
+      font-size: 3em;
+      font-weight: bolder;
+      background:linear-gradient(orange,gray,blue,green);
+      color:transparent;
+      background-clip: text;
+  }
+  #main:hover{
+      background:linear-gradient(skyblue,pink);
+  }
+  .menu{
+    text-align: center;
+  }
+ 
+  .m1{
+      color: red;
+      margin-top: 2%;
+  }
+  .m2{
+      color:blue;
+  }
+  .m3{
+      text-decoration: none;
+  }
+  .m4{
+      color:green;
+  }
+  .m5{
+      text-decoration: none;
+  }
+ 
+  .m5:hover{
+      color:yellow;
+  }
+ 
