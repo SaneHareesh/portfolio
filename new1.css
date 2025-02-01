@@ -1,0 +1,95 @@
+body{
+    background-color: pink;
+    
+}
+nav{
+    margin-top: 4%;
+    padding-left: 400px;
+    font-weight: bolder;
+    font-size: 3rem;
+    background:linear-gradient(green 20%,red 40%,blue 60%);
+    color: transparent;
+    background-clip: text;
+    width: auto;
+    height: auto;
+
+}
+.parent{
+    display: flex;
+    position: relative;
+    width: 1200px;
+    justify-content:space-around;
+    height: 50px;
+    flex-flow: row wrap;
+    text-align: center;
+    margin-top: 8%;
+    
+}
+.child{
+    width: 100px;
+    height: 100px;
+    vertical-align: middle;
+    padding-top: 50px;
+    border-radius: 25%;
+    cursor: pointer;
+}
+
+#c1{
+    background-color: blueviolet;
+    
+}
+#c2{
+    background-color: aqua;
+}
+#c3{
+    background-color: yellow;
+}
+#c4{
+    background-color: brown;
+}
+#c5{
+    background-color: green;
+}
+#c6{
+    margin-top: 13%;
+    padding-left:500px ;
+}
+.parent1{
+    display: flex;
+    position: relative;
+    width: 1200px;
+    justify-content:space-around;
+    height: 50px;
+    flex-flow: row wrap;
+    text-align: center;
+    margin-top: 6%;
+}
+#c7{
+    background-color: orangered;
+}
+.parent2{
+    display: flex;
+    position: relative;
+    width: 600px;
+    justify-content:space-around;
+    height: 50px;
+    flex-flow: row wrap;
+    text-align: center;
+    margin-top: 12%;
+    padding-left: 280px;
+}
+#c8{
+    background-color: greenyellow;
+}
+#c9{
+    background-color: gray;
+}
+#c10{
+    padding-left: 500px;
+}
+.d1{
+    text-decoration: none;
+}
+#c11{
+    padding-left:450px ;
+}
